@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Xplorify</string>
+
+    <string-array name="countries">
+        <item>Ahmedabad</item>
+        <item>Bangalore</item>
+        <item>Bombay</item>
+        <item>Chattisgarh</item>
+        <item>Chandigarh</item>
+        <item>Cochin</item>
+        <item>Darjeeling</item>
+        <item>Delhi</item>
+        <item>Ernakulam</item>
+        <item>Faizabad</item>
+        <item>Gadag</item>
+        <item>Harinagar</item>
+        <item>Indore</item>
+        <item>Jabalpur</item>
+        <item>Kolkata</item>
+        <item>Ladakh</item>
+        <item>Lucknow</item>
+        <item>Mangalore</item>
+        <item>Manipal</item>
+        <item>Nadora</item>
+        <item>Ooty</item>
+        <item>Panaji</item>
+        <item>Raichur</item>
+        <item>Rajkot</item>
+        <item>Ranipuram</item>
+        <item>Srinagar</item>
+        <item>Thiruvananthapuram</item>
+        <item>Travancore</item>
+        <item>Udaipur</item>
+        <item>Vishakhapatnam</item>
+    </string-array>
+</resources>
