@@ -2,7 +2,7 @@
 
 A travel booking android app
 
-The database is in the trav folder
+The php codes are in the trav folder
 
 The sql file consists of the required commands for the database
 
